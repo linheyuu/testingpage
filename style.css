@@ -1,0 +1,35 @@
+body{
+  background-color:#5c5c5c;
+  font-family:"Comic Sans MS"
+  
+}
+
+header{
+  color:#000000;
+  background-color:#5c5c5c;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+  padding-right:10px;
+}
+
+hr{
+  border-color:#000000;
+  border-width:2px;
+}
+
+.easy{
+  padding:20px;
+  margin:20px;
+  color:#7ff967;
+  border-style:solid;
+  border-color:#000000;
+}
+
+.not-easy{
+  padding:20px;
+  margin:20px;
+  color:#ff2929;
+  border-style:solid;
+  border-color:#000000;
+}
